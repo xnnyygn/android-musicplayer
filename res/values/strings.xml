@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Player</string>
+    <string name="btn_play">Play</string>
+    <string name="menu_exit">Exit</string>
+    <string name="placeholder_music_title">Music Title</string>
+    <string name="placeholder_music_path">/foo/bar/baz.mp3</string>
+    <string name="placeholder_current_position">01:01</string>
+    <string name="placeholder_duration">04:30</string>
+    <string name="alt_looping">Looping</string>
+    <string name="alt_backward">Backward</string>
+    <string name="alt_forward">Forward</string>
+
+</resources>
